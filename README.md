@@ -7,7 +7,7 @@ You get a radio button from where you can switch to different sport news.
 
 At the bottom of page you can find previous and next buttons to toggle to different page.
 
-As this app fetched news from API, and the API's used are freemium version so can only be used in localhost.
+As this app fetches news from API, and the API's used are freemium version so can only be used in localhost.
 
 
 ![image](https://github.com/Ruturajrmane/Sports-News-App/assets/60217843/5dad8331-576f-478e-b780-0208ee1deadc)
