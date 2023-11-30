@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Brief
+
+This application is based on react, as name suggest it gives sports news of different sports like - Cricket, Football, Tennis
+You get a radio button from where you can switch to different sport news.
+At the bottom of page you can find previous and next buttons to toggle to different page.
+As this app fetched news from API, and the API's used are freemium version so can only be used in localhost.
+
+
+![image](https://github.com/Ruturajrmane/Sports-News-App/assets/60217843/5dad8331-576f-478e-b780-0208ee1deadc)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
