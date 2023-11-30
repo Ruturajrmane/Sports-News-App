@@ -11,6 +11,8 @@ As this app fetched news from API, and the API's used are freemium version so ca
 
 
 ![image](https://github.com/Ruturajrmane/Sports-News-App/assets/60217843/5dad8331-576f-478e-b780-0208ee1deadc)
+![image](https://github.com/Ruturajrmane/Sports-News-App/assets/60217843/8aab93e5-e32a-4688-a7b9-f815df799363)
+
 
 
 ## Available Scripts
